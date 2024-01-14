@@ -1,5 +1,4 @@
 # JentyTestTask
- Test task for the company
 <p align="center">
       <img src="https://i.ibb.co/swdH710/1.png" width="426">
 </p>
@@ -13,21 +12,12 @@
 Уровней сложности делать не нужно. Один бесконечный уровень.
 Дополнительно должен быть инструмент для создания новых видов блоков.
 Ограничения для создания блоков:  размерность 4 на 4 и не более восьми ячеек в блоке. У каждой ячейки в блоке должна быть соседняя ячейка по оси X или Y.
-## About
 
-About Text Here
-
-## Documentation
-
-Documentation Here
-
-## Distribute
-
-- [Service Name](Page Link)
-
-
+## Screenshots
+<p align="center">
+      <img src="https://i.ibb.co/6vcH5mn/2.png" width="256">
+      <img src="https://i.ibb.co/tHB1SzV/3.png" width="256">
+</p>
 ## Developers
 
-- [Delevoper Name](GitHub Profile Link)
-
-## License
+- [FaulenSon](https://github.com/FaulenSon)
