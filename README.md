@@ -1,7 +1,7 @@
 # JentyTestTask
  Test task for the company
 <p align="center">
-      <img src="https://i.ibb.co/swdH710/1.png" width="726">
+      <img src="https://i.ibb.co/swdH710/1.png" width="426">
 </p>
 
 ## Task
