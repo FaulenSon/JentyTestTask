@@ -1,10 +1,6 @@
 # JentyTestTask
-<p align="center">
-      <img src="https://i.ibb.co/swdH710/1.png" width="426">
-</p>
 
 ## Task
-Задание:
 Написать тетрис на WinForms.
 Размерность игрового поля настраиваемая. Минимальная высота 20 ячеек, ширина 15 ячеек.
 Скорость падения блоков 2 ячейки в секунду.
@@ -15,9 +11,11 @@
 
 ## Screenshots
 <p align="center">
+      <img src="https://i.ibb.co/swdH710/1.png" width="426">
       <img src="https://i.ibb.co/6vcH5mn/2.png" width="256">
       <img src="https://i.ibb.co/tHB1SzV/3.png" width="256">
 </p>
+
 ## Developers
 
 - [FaulenSon](https://github.com/FaulenSon)
